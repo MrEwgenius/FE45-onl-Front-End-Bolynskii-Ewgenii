@@ -31,10 +31,10 @@ html {
 }
 
 .line {
-    margin: 0 auto 34px;
     width: 64px;
     height: 2px;
     border: 1px solid #E72424;
+    margin: 0 auto 34px;
 }
 
 .description {
