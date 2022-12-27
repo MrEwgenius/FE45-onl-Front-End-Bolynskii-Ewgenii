@@ -13,6 +13,10 @@ html {
     font-family: "Open Sans", "Raleway", sans-serif;
 }
 
+section{
+    margin: 100px 0;
+}
+
 .container {
     max-width: 1170px;
     padding: 0 15px;
@@ -45,6 +49,3 @@ html {
     color: #86878B;
 }
 
-.awesome{
-    margin: 100px 0;
-}
